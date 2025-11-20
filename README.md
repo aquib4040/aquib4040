@@ -29,7 +29,7 @@
 ### Currently Exploring
 - Node.js & Express.js for backend development
 - RESTful API design and development
-- Discord/Telegram bot development
+- Telegram bot development
 - Data structures and algorithms
 - Web automation and scraping
 
@@ -37,7 +37,7 @@
 ### 🤖 Bot Projects
 - Building automated bots using Python and JavaScript
 - Integrating MongoDB for data persistence
-- Working on Discord/Telegram automation
+- Working on Telegram automation
 
 ### 🌐 Web Development
 - Creating responsive web applications
