@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm AQUIB
 
 ## 🎓 About Me
-- 🎯 **Diploma in Computer Science Engineering** graduate
-- 📚 Currently pursuing **B.Tech in CSE**
-- 💻 Passionate about building practical solutions and learning new technologies
-- 🤖 Interested in automation, web development, and bot development
-
+- 🎯 **CSE Diploma Student** - Currently in my second year
+- 📚 Next Stop: **B.Tech in CSE** 🚀
+- 💻 Building projects and learning new tech every day
+- 🤖 Love creating bots and automating stuff!
+  
 ## 🚀 What I'm Currently Learning
 - 🐍 **Python** - Diving deep into scripting, automation, and backend development
 - ⚡ **JavaScript** - Exploring modern web development and interactive applications
