@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm AQUIB
 
 ## 🎓 About Me
 - 🎯 **Diploma in Computer Science Engineering** graduate
