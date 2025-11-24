@@ -5,7 +5,7 @@
 - 📚 Next Stop: **B.Tech in CSE** 🚀
 - 💻 Building projects and learning new tech every day
 - 🤖 Love creating bots and automating stuff!
-  
+
 ## 🚀 What I'm Currently Learning
 - 🐍 **Python** - Diving deep into scripting, automation, and backend development
 - ⚡ **JavaScript** - Exploring modern web development and interactive applications
@@ -26,6 +26,21 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### ☁️ Deployment Platforms
+![Koyeb](https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-00979D?style=for-the-badge&logo=linux&logoColor=white)
+
+**Experienced in deploying applications across multiple cloud platforms:**
+- Frontend deployments on Vercel and Netlify
+- Backend services on Koyeb, Heroku, Render, and Railway
+- Custom VPS configurations for full control
+- Continuous deployment with GitHub integration
+
 ### Currently Exploring
 - Node.js & Express.js for backend development
 - RESTful API design and development
@@ -34,17 +49,21 @@
 - Web automation and scraping
 
 ## 🛠️ Projects
+
 ### 🤖 Bot Projects
 - Building automated bots using Python and JavaScript
 - Integrating MongoDB for data persistence
 - Working on Telegram automation
+- Deployed on Koyeb, Heroku, and Railway for 24/7 uptime
 
 ### 🌐 Web Development
 - Creating responsive web applications
 - Learning full-stack development fundamentals
 - Experimenting with modern JavaScript frameworks
+- Hosting static sites on Vercel and Netlify
 
 ## 📊 GitHub Stats
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aquib4040&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aquib4040&layout=compact&theme=radical)
@@ -55,14 +74,16 @@
 - ✅ Contribute to open-source projects
 - ✅ Learn a new framework (React/Django)
 - ✅ Strengthen DSA skills for placements
+- ✅ Deploy production-ready applications
 
 ## 📫 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aquib-jawed-11548a332)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ExE_AQUIB)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdaquibjawed1106@gmail.com)
 
 ## 💡 Fun Fact
-I love automating repetitive tasks and building bots that make life easier! Always excited to collaborate on interesting projects.
+I love automating repetitive tasks and building bots that make life easier! Always excited to collaborate on interesting projects and deploy them to the cloud! ☁️
 
 ---
-⭐️ From [Your Username](https://github.com/aquib4040)
+⭐️ From [aquib4040](https://github.com/aquib4040)
