@@ -68,10 +68,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aquib4040&layout=compact&theme=radical)
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 - ✅ Master Python and JavaScript fundamentals
 - ✅ Build 5+ full-stack projects
-- ✅ Contribute to open-source projects
 - ✅ Learn a new framework (React/Django)
 - ✅ Strengthen DSA skills for placements
 - ✅ Deploy production-ready applications
