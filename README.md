@@ -81,13 +81,13 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aquib4040&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aquib4040&layout=compact&theme=tokyonight&hide_border=true)
+**Visit my GitHub profile for live stats and activity:** 
+  
+[![GitHub Profile](https://img.shields.io/badge/GitHub%20Profile-aquib4040-181717?style=for-the-badge&logo=github)](https://github.com/aquib4040)
 
 </div>
 
