@@ -1,6 +1,6 @@
 # 👋 Welcome to Aquib's GitHub Profile!
 
-**Computer Science Diploma Student | Bot Developer | Full-Stack Enthusiast | Cloud Deployment Expert**
+**Computer Science Diploma Student | Bot Developer | Backend Specialist | Cloud Deployment Expert**
 
 ---
 
@@ -8,7 +8,7 @@
 
 - 🎯 **CSE Diploma Student** (Year 2) → Building projects → Learning continuously
 - 📚 Next Stop: **B.Tech in CSE** 🚀
-- 💻 Passionate about **automation**, **bot development**, and **full-stack solutions**
+- 💻 Passionate about **automation**, **bot development**, and **backend solutions**
 - 🔥 **Motto**: Transform ideas into deployed, production-ready applications!
 - 🤖 I automate boring stuff so I can focus on building cool things! ☁️
 
@@ -17,8 +17,10 @@
 ## 🚀 What I'm Currently Learning
 
 - 🐍 **Python** - Scripting, automation, backend development & data structures
-- ⚡ **JavaScript** - Modern web development, interactive applications & Node.js
-- 🗄️ **MongoDB** - NoSQL databases for scalable, real-time applications
+- ⚡ **JavaScript** - Backend development with Node.js & Express
+- ☁️ **DevOps & Cloud Computing** - Infrastructure, deployment, and cloud services
+- ☕ **Java** - College coursework & object-oriented programming
+- 🔤 **C** - College coursework & system programming fundamentals
 - 🤖 **Bot Development** - Telegram bots, Discord bots & API integrations
 - 🔗 **Node.js & Express.js** - Building RESTful APIs & backend services
 - 📊 **Data Structures & Algorithms** - Essential for placements & competitive programming
@@ -30,6 +32,8 @@
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -39,17 +43,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### **☁️ Cloud & Deployment Platforms**
+### **☁️ Cloud & DevOps Platforms**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Koyeb](https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![VPS](https://img.shields.io/badge/VPS-00979D?style=for-the-badge&logo=linux&logoColor=white)
 
 **✨ Experienced in deploying across multiple cloud platforms:**
-- 🎨 Frontend deployments on Vercel & Netlify
 - ⚙️ Backend services on Koyeb, Heroku, Render & Railway
 - 🛠️ Custom VPS configurations for full control
 - 🔄 CI/CD pipelines with GitHub integration
@@ -62,7 +66,7 @@
 | Project | Description | Tech Stack | Status |
 |---------|-------------|-----------|--------|
 | 🤖 **Bot Projects** | Automated bots with Python & JavaScript | Python, MongoDB, Telegram API | 🟢 Active |
-| 🌐 **Web Development** | Responsive full-stack applications | JavaScript, Node.js, React | 🟢 Active |
+| 🔌 **Backend Services** | RESTful APIs & microservices | Node.js, Express, Python | 🟢 Active |
 | 📊 **Data & Automation** | Scraping & automation tools | Python, Beautiful Soup | 🟡 In Progress |
 
 ---
@@ -71,41 +75,46 @@
 
 - 🔨 **Projects Built**: 15+
 - 🌟 **Most Used Language**: Python
-- 🚀 **Apps Deployed**: Koyeb, Heroku, Railway, Vercel, Netlify, VPS
-- 📚 **Currently Mastering**: Node.js, Express.js & Advanced JavaScript
+- 🚀 **Apps Deployed**: Koyeb, Heroku, Railway, Vercel, VPS
+- 📚 **Currently Mastering**: Node.js, Express.js & Advanced Backend Development
 - 💾 **Repositories**: Active development across multiple projects
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aquib4040&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aquib4040&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aquib4040&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aquib4040&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 🎯 2026 Goals - 12 Month Roadmap
+## 🎯 Future Career Goals
 
-### Q1 2026 (Jan - Mar)
-- ✅ Master Python and JavaScript fundamentals
-- ✅ Complete 2 full-stack projects
-- ✅ Learn Git workflows & GitHub best practices
+### **Backend Developer Excellence**
+- 🔥 Build high-performance, scalable APIs and microservices
+- 📊 Master advanced backend architectures (Event-Driven, CQRS, Saga patterns)
+- 🔐 Specialize in security best practices and authentication systems
+- ⚡ Optimize database performance and query optimization
 
-### Q2 2026 (Apr - Jun)
-- ✅ Build & deploy 3+ production-ready applications
-- ✅ Learn React or Django framework deeply
-- ✅ Contribute to 2 open-source projects
+### **DevOps & Cloud Computing Expert**
+- ☁️ **Cloud Platforms**: Deep expertise in AWS, GCP, and Azure
+- 🐳 **Containerization**: Docker and Kubernetes orchestration
+- 🔄 **CI/CD Pipelines**: Advanced automation with GitHub Actions, GitLab CI, Jenkins
+- 📈 **Infrastructure as Code**: Terraform, CloudFormation, Ansible
+- 📊 **Monitoring & Logging**: ELK Stack, Prometheus, Grafana, CloudWatch
+- 🚀 **Serverless Architecture**: AWS Lambda, Google Cloud Functions
 
-### Q3 2026 (Jul - Sep)
-- ✅ Strengthen Data Structures & Algorithms for placements
-- ✅ Master RESTful API design patterns
-- ✅ Deploy 2 projects using CI/CD pipelines
-
-### Q4 2026 (Oct - Dec)
-- ✅ Complete portfolio website showcase
-- ✅ Launch a full-featured SaaS project
-- ✅ Secure internship or freelance opportunities
+### **Professional Milestones**
+- ✅ Become a full-stack Backend Developer with DevOps skills
+- ✅ Secure roles in DevOps, Cloud Architecture, or Site Reliability Engineering (SRE)
+- ✅ Build enterprise-grade infrastructure and deployment solutions
+- ✅ Contribute to critical open-source DevOps projects
+- ✅ Mentor junior developers in backend and cloud technologies
 
 ---
 
@@ -113,10 +122,11 @@
 
 I'm always excited about:
 - 🤖 **Automation & Bot Projects** - Make workflows smarter!
-- 💼 **Full-Stack Development** - Build complete applications
+- ⚙️ **Backend Development** - Build scalable APIs and services
+- ☁️ **DevOps & Cloud Solutions** - Infrastructure, deployment, and architecture
 - 🌐 **Open Source Contributions** - Give back to the community
 - 📱 **Telegram/Discord Bot Development** - Real-time automation
-- 🚀 **Deployment & DevOps** - Making apps production-ready
+- 🚀 **Production Deployment** - Making apps reliable and scalable
 
 **Let's connect and build something amazing together!** 🚀
 
@@ -143,7 +153,7 @@ I'm always excited about:
 
 ### ⭐️ If you find my work helpful, please give it a star! It means a lot! 🌟
 
-**Last Updated**: March 2026 | **Next Update**: June 2026
+**Last Updated**: May 2026
 
 [⬆ back to top](#-welcome-to-aquibs-github-profile)
 
