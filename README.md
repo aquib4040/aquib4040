@@ -37,12 +37,12 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aquib4040&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquib4040&layout=compact&theme=dark&hide_border=true&include_all_commits=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aquib4040&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aquib4040&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aquib4040&theme=dark&hide_border=true" height="140" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=aquib4040&theme=dark&hide_border=true" height="140" alt="GitHub Streak" />
 </p>
 
 ---
